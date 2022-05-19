@@ -185,72 +185,8 @@ body{
     font-weight: 300;
     line-height: 38.4px;
 }
-.pricing-list{
-    background-color: white;
-    height: 600px;
-}
-.pricing-list h3{
-    font-size: 40px;
-    font-weight: 500;
-    line-height: 72.72px;
-}
-.pricing-list p{
-    font-size: 20px;
-    font-weight: 300;
-    line-height: 41.2px;
-    color: #767676;
-}
-.pricing-list ul li{
-    font-size: 20px;
-    font-weight: 300;
-    line-height: 60.2px;
-    color: #767676;
-    
-}
-.left-pricing-list ul{
-    list-style-type: none;
-}
-.left-pricing-list ul li:nth-child(1)::before{
-    content: "\f00c";
-    font-family: "Font Awesome 5 Free";
-    font-weight: bold;
-    padding-right: 10px;
-    color: #6278df;
-    font-size: 20px;
-    display: inline-block;
-    
-}
-.left-pricing-list ul li:nth-child(2)::before{
-    content: "\f00c";
-    font-family: "Font Awesome 5 Free";
-    font-weight: 600;
-    padding-right: 10px;
-    color: #6278df;
-    font-weight: 600;
-    
-}
-.left-pricing-list ul li:nth-child(3)::before{
-    content: "\f00d";
-    font-family: "Font Awesome 5 Free";
-    font-weight: 600;
-    padding-right: 10px;
-    color: #6278df;
-    font-weight: 600;
-    
-}
-.left-pricing-list ul li:nth-child(4)::before{
-    content: "\f00d";
-    font-family: "Font Awesome 5 Free";
-    font-weight: 600;
-    padding-right: 10px;
-    color: #6278df;
-    font-weight:bold;
-    
-}
-ul li span{
-    font-weight: bold;
-    font-size: 20px;
-    color: #6278df;
+.pricing-table{
+    height: 576px;
 }
 .price-button{
     color: #6278df;
